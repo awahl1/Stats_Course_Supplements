@@ -1,0 +1,13 @@
+PARTICIPANT,AGE,GENRE,LENGTH_IN_WORDS,READING_TIME
+1,18,novel_excerpt,24,4402
+1,18,tweet,22,3345
+1,18,poem,23,7624
+2,44,novel_excerpt,24,4225
+2,44,tweet,22,8733
+2,44,poem,23,3539
+3,23,novel_excerpt,24,4076
+3,23,tweet,22,3911
+3,23,poem,23,4788
+4,39,novel_excerpt,24,4315
+4,39,tweet,22,6622
+4,39,poem,23,4681
